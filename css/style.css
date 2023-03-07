@@ -481,7 +481,8 @@ header.fixed .navbar {
 }
 
 .navbar-brand img {
-    width: 150px;
+    width: 70px;
+    border-radius: 5px;
 }
 
 /* navigation bar dropdown */
@@ -792,7 +793,7 @@ header.fixed .navbar {
     position: absolute;
     left: 5px;
     top: 5px;
-    background-color: #fff;
+    /* background-color: #fff; */
     width: calc(100% - 10px);
     height: 92%;
 }
@@ -811,7 +812,7 @@ header.fixed .navbar {
 }
 
 .banner_section .banner_slider #frmae_slider {
-    width: 305px;
+    width: 400px;
     margin: 0 auto;
 }
 
@@ -1945,6 +1946,7 @@ footer .top_footer .logo {
 
 footer .top_footer .logo img {
     width: 150px;
+    border-radius: 10px;
 }
 
 footer .top_footer .abt_side li {
