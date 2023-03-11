@@ -929,7 +929,7 @@ header.fixed .navbar {
 
 /* about us section images*/
 .about_app_section .about_img img {
-    max-width: 100%;
+    max-width: 67%;
 }
 
 .about_app_section .about_img::before {
@@ -1742,7 +1742,7 @@ box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
 }
 
 .free_app_section .container .free_app_inner .free_img img:last-child {
-    margin-left: -65px;
+    margin-left: -175px!important;
 }
 
 .purple_backdrop {
@@ -3494,7 +3494,13 @@ header.fix_style.white_header {
     margin: 50px 0;
 }
 
+.free_img img {
+    width: 254px;
+}
 
+.free_img .mobile_mockup {
+    width: 353px;
+}
 
 
 
